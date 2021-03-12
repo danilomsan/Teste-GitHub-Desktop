@@ -1,3 +1,3 @@
 Olá mundo!
-Repositor teste com o GitHub Desktop.
-Essa linha eu adicionei diretamente no site.
+Repositor teste com o GitHub Desktop
+Repositorio criado durante uma imagem
